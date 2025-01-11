@@ -1,0 +1,1 @@
+streamlit run "C:\Users\user\Desktop\capstone_project\Multiple disease predict.py"
